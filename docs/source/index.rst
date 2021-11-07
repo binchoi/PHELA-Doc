@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PHELA 2022's documentation!
-======================================
+Programming for HELA 2022
+===========================
+
+One-stop shop for lecture notes, online resources, and contact information.
 
 .. toctree::
    :maxdepth: 2
