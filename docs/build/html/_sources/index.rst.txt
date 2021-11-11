@@ -8,6 +8,8 @@ Programming for HELA 2022
 
 One-stop shop for lecture notes, online resources, and contact information.
 
+contact: binchoi@u.yale-nus.edu.sg
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
